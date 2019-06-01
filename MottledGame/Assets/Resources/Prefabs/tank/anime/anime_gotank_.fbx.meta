@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 5339a57fc90d2d64696a12805d66c361
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: all_move
+    100002: //RootNode
+    100004: front_side_buck
+    100006: joint_g
+    100008: p_tank_g
+    100010: pBody
+    100012: pcannon
+    100014: pKidourin7
+    100016: pRitai1
+    100018: pTenrin
+    100020: pturret1
+    100022: rig_g
+    100024: root
+    100026: syarin
+    100028: top
+    100030: top_loca
+    100032: turret_g
+    100034: up_dowun
+    400000: all_move
+    400002: //RootNode
+    400004: front_side_buck
+    400006: joint_g
+    400008: p_tank_g
+    400010: pBody
+    400012: pcannon
+    400014: pKidourin7
+    400016: pRitai1
+    400018: pTenrin
+    400020: pturret1
+    400022: rig_g
+    400024: root
+    400026: syarin
+    400028: top
+    400030: top_loca
+    400032: turret_g
+    400034: up_dowun
+    2100000: tank_m
+    4300000: pturret1
+    4300002: pcannon
+    4300004: pTenrin
+    4300006: pRitai1
+    4300008: pKidourin7
+    4300010: pBody
+    7400000: tank_go
+    9500000: //RootNode
+    13700000: pBody
+    13700002: pcannon
+    13700004: pKidourin7
+    13700006: pRitai1
+    13700008: pTenrin
+    13700010: pturret1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tank_m
+    second: {fileID: 2100000, guid: cffcdadc4b2e24d08a9224235cf49d93, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: tank_go
+      takeName: tank_go
+      firstFrame: 1
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
